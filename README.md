@@ -9,16 +9,25 @@ I don't consider myself to be an artist so many emoji I create, will be simple g
 
 I cannot take responsibility for the use of these emoji, particularly the flags. Also some of these emoji are trademarked such as the pokeball.
 
+## Almost done:
+
+### Pokeball
+![Pokeball](https://github.com/inferno986return/my-openmoji/blob/master/png/openmoji_pokeball.png)
+
+### City of London flag
+![City of London flag](https://github.com/inferno986return/my-openmoji/blob/master/png/city_of_london_OpenMoji.png)
+
+### White Ensign flag
+![White Ensign](https://github.com/inferno986return/my-openmoji/blob/master/png/white_ensign_OpenMoji.png)
+
 ## To-do:
 
 ### UK flags:
 * UK county flags
-![City of London flag](https://github.com/inferno986return/my-openmoji/blob/master/png/city_of_london_OpenMoji.png)
 * City of London flag
 * Ulster flag
 * St. David's flag
-![White Ensign](https://github.com/inferno986return/my-openmoji/blob/master/png/white_ensign_OpenMoji.png)
-* British Ensigns (white, blue and red)
+* British Ensigns (blue and red)
 * RAF flag
 
 ### US flags:
@@ -29,6 +38,4 @@ I cannot take responsibility for the use of these emoji, particularly the flags.
 * Olympic flag
 
 ### Misc:
-![Pokeball](https://github.com/inferno986return/my-openmoji/blob/master/png/openmoji_pokeball.png)
-* Pokeball
 * Poker chip
