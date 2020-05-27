@@ -13,10 +13,10 @@ I cannot take responsibility for the use of these emoji, particularly the flags.
 
 ### UK flags:
 * UK county flags
-* City of London flag
+* City of London flag ![City of London flag](https://github.com/inferno986return/my-openmoji/blob/master/png/city_of_london_OpenMoji.png)
 * Ulster flag
 * St. David's flag
-* British Ensigns (white, blue and red)
+* British Ensigns (white, blue and red) ![White Ensign](https://github.com/inferno986return/my-openmoji/blob/master/png/white_ensign_OpenMoji.png)
 * RAF flag
 
 ### US flags:
@@ -28,4 +28,4 @@ I cannot take responsibility for the use of these emoji, particularly the flags.
 
 ### Misc:
 * Pokeball
-* Poker chip
+* Poker chip ![Pokeball](https://github.com/inferno986return/my-openmoji/blob/master/png/openmoji_pokeball.png)
