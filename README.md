@@ -17,12 +17,13 @@ I cannot take responsibility for the use of these emoji, particularly the flags.
 * Ulster flag
 * St. David's flag
 * British Ensigns (white, blue and red)
+* RAF flag
 
-## US flags:
+### US flags:
 * US state flags
 * Washington DC flag
 
-## Other flags:
+### Other flags:
 * Olympic flag
 
 ### Misc:
