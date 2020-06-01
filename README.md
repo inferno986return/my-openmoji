@@ -29,8 +29,11 @@ The St. Piran's flag is the symbol of Cornwall. A popular tourism county in Engl
 #### St. David's flag ![St. David's](https://github.com/inferno986return/my-openmoji/blob/master/png/StDavidFlag_OpenMoji.png)
 The St. David's flag is the symbol of the patron saint of Wales. As well as being an alternate Welsh national flag.
 
-#### US Thin Blue Line flag ![St. David's](https://github.com/inferno986return/my-openmoji/blob/master/png/StDavidFlag_OpenMoji.png)
+#### US Thin Blue Line flag ![St. David's](https://github.com/inferno986return/my-openmoji/blob/master/png/USThinBlueLine_OpenMoji.png)
 The Thin Blue Line is a symbol used by supporters of law enforcement to suggest they are the difference between law and chaos.
+
+#### Molossia flag ![Molossia flag](https://github.com/inferno986return/my-openmoji/blob/master/png/MolossiaFlag_OpenMoji.png)
+The flag of the Molossia micronation.
 
 ## To-do:
 
