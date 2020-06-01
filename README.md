@@ -7,27 +7,30 @@ I don't consider myself to be an artist so many emoji I create, will be simple g
 
 ## Disclaimer
 
-I cannot take responsibility for the use of these emoji, particularly the flags. Also some of these emoji are trademarked such as the pokeball.
+I cannot take responsibility for the use of these emoji, particularly the flags. Also some of these emoji are trademarked such as the pokéball.
 
 ## Almost done:
 
-### Pokéball ![Pokéball](https://github.com/inferno986return/my-openmoji/blob/master/png/openmoji_pokeball.png)
+#### Pokéball ![Pokéball](https://github.com/inferno986return/my-openmoji/blob/master/png/openmoji_pokeball.png)
 Watching *Detective Pikachu* has made me want to see a pokéball emoji. Use it to bring out your inner Pokéfan! However keep in mind that is a trademarked symbol.
 
-### City of London flag ![City of London flag](https://github.com/inferno986return/my-openmoji/blob/master/png/city_of_london_OpenMoji.png)
+#### City of London flag ![City of London flag](https://github.com/inferno986return/my-openmoji/blob/master/png/city_of_london_OpenMoji.png)
 This design can be seen all over London's Square Mile which is home to iconic landmarks including St Paul's Cathedral, Temple Church and the London Mithraeum.
 
-### White Ensign flag ![White Ensign](https://github.com/inferno986return/my-openmoji/blob/master/png/white_ensign_OpenMoji.png)
+#### White Ensign flag ![White Ensign](https://github.com/inferno986return/my-openmoji/blob/master/png/white_ensign_OpenMoji.png)
 The flag used to mark ships that part of the UK's naval fleet. The design has stuck with me after playing many hours of *Assassin's Creed: Black Flag*.
 
-### Inverted US flag ![Inverted US](https://github.com/inferno986return/my-openmoji/blob/master/png/USFlagDistressed_OpenMoji.png)
+#### Inverted US flag ![Inverted US](https://github.com/inferno986return/my-openmoji/blob/master/png/USFlagDistressed_OpenMoji.png)
 Technically a descrecation of the US flag, however many activists fly the flag inverted to symbolise distress.
 
-### Cornish flag ![Cornish ](https://github.com/inferno986return/my-openmoji/blob/master/png/CornishFlag_OpenMoji.png)
+#### Cornish flag ![Cornish ](https://github.com/inferno986return/my-openmoji/blob/master/png/CornishFlag_OpenMoji.png)
 The St. Piran's flag is the symbol of Cornwall. A popular tourism county in England.
 
-### St. David's flag ![St. David's](https://github.com/inferno986return/my-openmoji/blob/master/png/StDavidFlag_OpenMoji.png)
+#### St. David's flag ![St. David's](https://github.com/inferno986return/my-openmoji/blob/master/png/StDavidFlag_OpenMoji.png)
 The St. David's flag is the symbol of the patron saint of Wales. As well as being an alternate Welsh national flag.
+
+#### US Thin Blue Line flag ![St. David's](https://github.com/inferno986return/my-openmoji/blob/master/png/StDavidFlag_OpenMoji.png)
+The Thin Blue Line is a symbol used by supporters of law enforcement to suggest they are the difference between law and chaos.
 
 ## To-do:
 
@@ -52,7 +55,6 @@ The St. David's flag is the symbol of the patron saint of Wales. As well as bein
 * Olympic flag
 * Madeira flag
 * Alamo flag
-* Molossia flag
 
 ### Misc:
 * Poker chip
