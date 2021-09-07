@@ -38,6 +38,7 @@ The flag of the Molossia micronation.
 ## To-do:
 
 ### UK flags:
+* Great Britain flag (without the red saltire)
 * UK county flags
 * Ulster flag
 * St. David's flag
