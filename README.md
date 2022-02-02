@@ -35,7 +35,7 @@ The Thin Blue Line is a symbol used by supporters of law enforcement to suggest 
 #### Molossia flag ![Molossia flag](https://github.com/inferno986return/my-openmoji/blob/master/png/MolossiaFlag_OpenMoji.png)
 The flag of the Molossia micronation.
 
-## To-do:
+## Emoji ideas (some of which I can do):
 
 ### UK flags:
 * Great Britain flag (without the red saltire)
@@ -46,7 +46,7 @@ The flag of the Molossia micronation.
 * RAF flag
 
 ### US flags:
-* US state flags
+* US state flags - Flag of Nevada, Flag of Hawaii, Flag of Arizona, Flag of Alabama
 * Washington DC flag
 * Betsy Ross flag
 * Gadsden flag
@@ -63,3 +63,48 @@ The flag of the Molossia micronation.
 ### Misc:
 * Poker chip
 * TfL roundel
+
+## New Zealand:
+* Tino rangatiratanga
+* Kiwi bird
+* Flag of the United Tribes of New Zealand
+
+## Scottish symbols:
+* Thistle
+* Bagpipes
+* Tartan / Kilt
+
+## Welsh symbols:
+* Daffodil
+
+## Safety and warning signs:
+* ISO exit sign
+* ISO corrosive sign
+* NFPA diamond?
+
+## Fictional flags:
+* Fallout US flag
+* Cyberpunk 2077 New United States flag
+
+## Miscellaneous:
+* Snowball rolling down a hill - snowball effect
+* Knife through heart
+* Coconut
+* Lantern
+
+## Australia symbols:
+(some good inspiration here: https://australiabusinessnews.com.au/technology/you-can-now-send-emu-lamington-and-uluru-emojis/ https://archive.ph/KQfEX)
+* Aboriginal flag
+* Australian state flags - all based on the blue ensign
+* Uluru
+* Tim Tams
+* Lamington
+* Hat with corks
+* Koala
+* Emu
+* Boomerang
+
+## Other: 
+* Flag of planet earth
+* Free speech flag
+* Kurdish flag
